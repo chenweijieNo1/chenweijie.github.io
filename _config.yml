@@ -1,0 +1,8 @@
+title: chenweijie个人技术博客
+description: chenweijie技术杂谈
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
